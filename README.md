@@ -1,3 +1,7 @@
+<img width="3053" height="1742" alt="capture_20261112211630189" src="https://github.com/user-attachments/assets/2cbddb15-8614-4ab1-bd68-a7bd30c637bb" />
+<img width="3071" height="1742" alt="capture_20261112211645461" src="https://github.com/user-attachments/assets/9a50c10d-4252-4f07-b50b-0c852063fde1" />
+<img width="3067" height="1756" alt="capture_20261112211710197" src="https://github.com/user-attachments/assets/06df10b0-d578-49cc-8a38-3a252ee93424" />
+<img width="3071" height="1746" alt="capture_20261112211807935" src="https://github.com/user-attachments/assets/df9ae338-1361-4860-a40f-6cd48f522098" />
 
 # 文字格斗 · Java Swing 版
 
